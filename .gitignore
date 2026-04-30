@@ -1,0 +1,19 @@
+# Compiled Binaries (Executable files)
+*.exe
+*.o
+*.out
+*.in
+
+# Input/Output files
+input.txt
+output.txt
+input.in
+output.out
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Temporary/Cache files
+__pycache__/
+*.tmp

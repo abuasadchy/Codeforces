@@ -1,0 +1,16 @@
+git add problemA.cpp
+git commit -m "Add problemA.cpp"
+git push origin main
+
+
+
+rename old_name.cpp new_name.cpp
+git add -A
+git commit -m "Rename old_name.cpp to new_name.cpp"
+git push origin main
+
+
+del old_problem.cpp
+git add -A
+git commit -m "Delete old_problem.cpp"
+git push origin main
